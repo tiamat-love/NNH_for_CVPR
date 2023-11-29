@@ -1,0 +1,731 @@
+{
+  "NAME": "C207\n",
+  "All_Distance": 150.58853595297862,
+  "All_Time": 7020,
+  "Routes": [
+    {
+      "num": 1,
+      "Route": [
+        {
+          "NO": 35,
+          "X_COORD": 5,
+          "Y_COORD": 35,
+          "DEMAND": 10,
+          "READY_TIME": 377,
+          "DUE_TIME": 1534,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 31,
+          "X_COORD": 10,
+          "Y_COORD": 35,
+          "DEMAND": 20,
+          "READY_TIME": 309,
+          "DUE_TIME": 1412,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 32,
+          "X_COORD": 10,
+          "Y_COORD": 40,
+          "DEMAND": 30,
+          "READY_TIME": 336,
+          "DUE_TIME": 1009,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 33,
+          "X_COORD": 8,
+          "Y_COORD": 40,
+          "DEMAND": 40,
+          "READY_TIME": 234,
+          "DUE_TIME": 1295,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 34,
+          "X_COORD": 8,
+          "Y_COORD": 45,
+          "DEMAND": 20,
+          "READY_TIME": 954,
+          "DUE_TIME": 1897,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 36,
+          "X_COORD": 5,
+          "Y_COORD": 45,
+          "DEMAND": 10,
+          "READY_TIME": 819,
+          "DUE_TIME": 1846,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 39,
+          "X_COORD": 0,
+          "Y_COORD": 45,
+          "DEMAND": 20,
+          "READY_TIME": 834,
+          "DUE_TIME": 1641,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 38,
+          "X_COORD": 0,
+          "Y_COORD": 40,
+          "DEMAND": 30,
+          "READY_TIME": 637,
+          "DUE_TIME": 1648,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 37,
+          "X_COORD": 2,
+          "Y_COORD": 40,
+          "DEMAND": 20,
+          "READY_TIME": 494,
+          "DUE_TIME": 1607,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 6,
+          "X_COORD": 16,
+          "Y_COORD": 42,
+          "DEMAND": 20,
+          "READY_TIME": 209,
+          "DUE_TIME": 944,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 29,
+          "X_COORD": 20,
+          "Y_COORD": 50,
+          "DEMAND": 10,
+          "READY_TIME": 20,
+          "DUE_TIME": 948,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 27,
+          "X_COORD": 23,
+          "Y_COORD": 52,
+          "DEMAND": 10,
+          "READY_TIME": 17,
+          "DUE_TIME": 602,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 24,
+          "X_COORD": 25,
+          "Y_COORD": 50,
+          "DEMAND": 10,
+          "READY_TIME": 15,
+          "DUE_TIME": 532,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 22,
+          "X_COORD": 28,
+          "Y_COORD": 52,
+          "DEMAND": 20,
+          "READY_TIME": 12,
+          "DUE_TIME": 752,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 20,
+          "X_COORD": 30,
+          "Y_COORD": 50,
+          "DEMAND": 10,
+          "READY_TIME": 10,
+          "DUE_TIME": 963,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 21,
+          "X_COORD": 30,
+          "Y_COORD": 56,
+          "DEMAND": 20,
+          "READY_TIME": 2062,
+          "DUE_TIME": 3288,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 8,
+          "X_COORD": 34,
+          "Y_COORD": 60,
+          "DEMAND": 20,
+          "READY_TIME": 2035,
+          "DUE_TIME": 3288,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 10,
+          "X_COORD": 35,
+          "Y_COORD": 66,
+          "DEMAND": 10,
+          "READY_TIME": 2311,
+          "DUE_TIME": 3283,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 11,
+          "X_COORD": 35,
+          "Y_COORD": 69,
+          "DEMAND": 10,
+          "READY_TIME": 2428,
+          "DUE_TIME": 3127,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 9,
+          "X_COORD": 28,
+          "Y_COORD": 70,
+          "DEMAND": 10,
+          "READY_TIME": 2090,
+          "DUE_TIME": 3271,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 25,
+          "X_COORD": 22,
+          "Y_COORD": 66,
+          "DEMAND": 40,
+          "READY_TIME": 2177,
+          "DUE_TIME": 2990,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 23,
+          "X_COORD": 14,
+          "Y_COORD": 66,
+          "DEMAND": 10,
+          "READY_TIME": 1316,
+          "DUE_TIME": 2129,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 26,
+          "X_COORD": 8,
+          "Y_COORD": 62,
+          "DEMAND": 10,
+          "READY_TIME": 1036,
+          "DUE_TIME": 2213,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 28,
+          "X_COORD": 4,
+          "Y_COORD": 55,
+          "DEMAND": 20,
+          "READY_TIME": 1010,
+          "DUE_TIME": 2043,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 30,
+          "X_COORD": 20,
+          "Y_COORD": 55,
+          "DEMAND": 10,
+          "READY_TIME": 63,
+          "DUE_TIME": 702,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 13,
+          "X_COORD": 22,
+          "Y_COORD": 75,
+          "DEMAND": 30,
+          "READY_TIME": 2135,
+          "DUE_TIME": 2834,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 17,
+          "X_COORD": 18,
+          "Y_COORD": 75,
+          "DEMAND": 20,
+          "READY_TIME": 1895,
+          "DUE_TIME": 2886,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 18,
+          "X_COORD": 15,
+          "Y_COORD": 75,
+          "DEMAND": 20,
+          "READY_TIME": 1299,
+          "DUE_TIME": 2344,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 19,
+          "X_COORD": 15,
+          "Y_COORD": 80,
+          "DEMAND": 10,
+          "READY_TIME": 1461,
+          "DUE_TIME": 2372,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 15,
+          "X_COORD": 20,
+          "Y_COORD": 80,
+          "DEMAND": 40,
+          "READY_TIME": 1858,
+          "DUE_TIME": 2733,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 16,
+          "X_COORD": 20,
+          "Y_COORD": 85,
+          "DEMAND": 40,
+          "READY_TIME": 1512,
+          "DUE_TIME": 2515,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 14,
+          "X_COORD": 22,
+          "Y_COORD": 85,
+          "DEMAND": 10,
+          "READY_TIME": 1586,
+          "DUE_TIME": 2625,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 12,
+          "X_COORD": 25,
+          "Y_COORD": 85,
+          "DEMAND": 20,
+          "READY_TIME": 1772,
+          "DUE_TIME": 2625,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 2,
+          "X_COORD": 45,
+          "Y_COORD": 70,
+          "DEMAND": 30,
+          "READY_TIME": 157,
+          "DUE_TIME": 428,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 75,
+          "X_COORD": 45,
+          "Y_COORD": 65,
+          "DEMAND": 20,
+          "READY_TIME": 49,
+          "DUE_TIME": 346,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 5,
+          "X_COORD": 42,
+          "Y_COORD": 65,
+          "DEMAND": 10,
+          "READY_TIME": 15,
+          "DUE_TIME": 208,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 89,
+          "X_COORD": 56,
+          "Y_COORD": 64,
+          "DEMAND": 10,
+          "READY_TIME": 1275,
+          "DUE_TIME": 1594,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 0,
+          "X_COORD": 40,
+          "Y_COORD": 50,
+          "DEMAND": 0,
+          "READY_TIME": 0,
+          "DUE_TIME": 3390,
+          "SERVICE_TIME": 0
+        }
+      ],
+      "Distance": 64.74565622495459
+    },
+    {
+      "num": 2,
+      "Route": [
+        {
+          "NO": 60,
+          "X_COORD": 35,
+          "Y_COORD": 5,
+          "DEMAND": 20,
+          "READY_TIME": 1180,
+          "DUE_TIME": 2049,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 58,
+          "X_COORD": 38,
+          "Y_COORD": 5,
+          "DEMAND": 30,
+          "READY_TIME": 1133,
+          "DUE_TIME": 1910,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 56,
+          "X_COORD": 40,
+          "Y_COORD": 5,
+          "DEMAND": 30,
+          "READY_TIME": 1083,
+          "DUE_TIME": 1776,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 53,
+          "X_COORD": 44,
+          "Y_COORD": 5,
+          "DEMAND": 20,
+          "READY_TIME": 1078,
+          "DUE_TIME": 1593,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 54,
+          "X_COORD": 42,
+          "Y_COORD": 10,
+          "DEMAND": 40,
+          "READY_TIME": 998,
+          "DUE_TIME": 1481,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 59,
+          "X_COORD": 38,
+          "Y_COORD": 10,
+          "DEMAND": 10,
+          "READY_TIME": 1392,
+          "DUE_TIME": 2027,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 57,
+          "X_COORD": 38,
+          "Y_COORD": 15,
+          "DEMAND": 40,
+          "READY_TIME": 1426,
+          "DUE_TIME": 2183,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 40,
+          "X_COORD": 36,
+          "Y_COORD": 18,
+          "DEMAND": 10,
+          "READY_TIME": 1468,
+          "DUE_TIME": 2329,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 44,
+          "X_COORD": 32,
+          "Y_COORD": 20,
+          "DEMAND": 10,
+          "READY_TIME": 1621,
+          "DUE_TIME": 2364,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 46,
+          "X_COORD": 34,
+          "Y_COORD": 25,
+          "DEMAND": 30,
+          "READY_TIME": 1782,
+          "DUE_TIME": 2395,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 45,
+          "X_COORD": 30,
+          "Y_COORD": 30,
+          "DEMAND": 10,
+          "READY_TIME": 1805,
+          "DUE_TIME": 2564,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 42,
+          "X_COORD": 33,
+          "Y_COORD": 32,
+          "DEMAND": 20,
+          "READY_TIME": 2421,
+          "DUE_TIME": 3070,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 41,
+          "X_COORD": 35,
+          "Y_COORD": 32,
+          "DEMAND": 10,
+          "READY_TIME": 2480,
+          "DUE_TIME": 3195,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 43,
+          "X_COORD": 33,
+          "Y_COORD": 35,
+          "DEMAND": 10,
+          "READY_TIME": 2368,
+          "DUE_TIME": 2937,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 47,
+          "X_COORD": 30,
+          "Y_COORD": 35,
+          "DEMAND": 10,
+          "READY_TIME": 2242,
+          "DUE_TIME": 2877,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 50,
+          "X_COORD": 26,
+          "Y_COORD": 32,
+          "DEMAND": 10,
+          "READY_TIME": 1842,
+          "DUE_TIME": 2901,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 51,
+          "X_COORD": 25,
+          "Y_COORD": 30,
+          "DEMAND": 10,
+          "READY_TIME": 1883,
+          "DUE_TIME": 2676,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 52,
+          "X_COORD": 25,
+          "Y_COORD": 35,
+          "DEMAND": 10,
+          "READY_TIME": 2070,
+          "DUE_TIME": 2859,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 48,
+          "X_COORD": 36,
+          "Y_COORD": 40,
+          "DEMAND": 10,
+          "READY_TIME": 2605,
+          "DUE_TIME": 3266,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 69,
+          "X_COORD": 45,
+          "Y_COORD": 35,
+          "DEMAND": 10,
+          "READY_TIME": 534,
+          "DUE_TIME": 985,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 66,
+          "X_COORD": 47,
+          "Y_COORD": 35,
+          "DEMAND": 10,
+          "READY_TIME": 393,
+          "DUE_TIME": 942,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 62,
+          "X_COORD": 50,
+          "Y_COORD": 35,
+          "DEMAND": 20,
+          "READY_TIME": 18,
+          "DUE_TIME": 474,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 74,
+          "X_COORD": 53,
+          "Y_COORD": 35,
+          "DEMAND": 50,
+          "READY_TIME": 87,
+          "DUE_TIME": 498,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 72,
+          "X_COORD": 53,
+          "Y_COORD": 30,
+          "DEMAND": 10,
+          "READY_TIME": 131,
+          "DUE_TIME": 644,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 61,
+          "X_COORD": 50,
+          "Y_COORD": 30,
+          "DEMAND": 10,
+          "READY_TIME": 223,
+          "DUE_TIME": 738,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 64,
+          "X_COORD": 48,
+          "Y_COORD": 30,
+          "DEMAND": 10,
+          "READY_TIME": 246,
+          "DUE_TIME": 899,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 68,
+          "X_COORD": 42,
+          "Y_COORD": 30,
+          "DEMAND": 10,
+          "READY_TIME": 641,
+          "DUE_TIME": 1070,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 65,
+          "X_COORD": 44,
+          "Y_COORD": 25,
+          "DEMAND": 10,
+          "READY_TIME": 704,
+          "DUE_TIME": 1197,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 49,
+          "X_COORD": 48,
+          "Y_COORD": 20,
+          "DEMAND": 10,
+          "READY_TIME": 812,
+          "DUE_TIME": 1281,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 55,
+          "X_COORD": 42,
+          "Y_COORD": 15,
+          "DEMAND": 10,
+          "READY_TIME": 897,
+          "DUE_TIME": 1392,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 67,
+          "X_COORD": 47,
+          "Y_COORD": 40,
+          "DEMAND": 10,
+          "READY_TIME": 12,
+          "DUE_TIME": 424,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 63,
+          "X_COORD": 50,
+          "Y_COORD": 40,
+          "DEMAND": 50,
+          "READY_TIME": 14,
+          "DUE_TIME": 360,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 96,
+          "X_COORD": 62,
+          "Y_COORD": 40,
+          "DEMAND": 10,
+          "READY_TIME": 2713,
+          "DUE_TIME": 3275,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 87,
+          "X_COORD": 64,
+          "Y_COORD": 46,
+          "DEMAND": 20,
+          "READY_TIME": 2976,
+          "DUE_TIME": 3275,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 77,
+          "X_COORD": 72,
+          "Y_COORD": 45,
+          "DEMAND": 10,
+          "READY_TIME": 2701,
+          "DUE_TIME": 3258,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 78,
+          "X_COORD": 78,
+          "Y_COORD": 40,
+          "DEMAND": 20,
+          "READY_TIME": 2599,
+          "DUE_TIME": 3164,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 81,
+          "X_COORD": 85,
+          "Y_COORD": 35,
+          "DEMAND": 30,
+          "READY_TIME": 2563,
+          "DUE_TIME": 3002,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 76,
+          "X_COORD": 90,
+          "Y_COORD": 35,
+          "DEMAND": 10,
+          "READY_TIME": 2106,
+          "DUE_TIME": 2315,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 71,
+          "X_COORD": 95,
+          "Y_COORD": 35,
+          "DEMAND": 20,
+          "READY_TIME": 2192,
+          "DUE_TIME": 2419,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 73,
+          "X_COORD": 92,
+          "Y_COORD": 30,
+          "DEMAND": 10,
+          "READY_TIME": 2169,
+          "DUE_TIME": 2818,
+          "SERVICE_TIME": 90
+        },
+        {
+          "NO": 79,
+          "X_COORD": 87,
+          "Y_COORD": 30,
+          "DEMAND": 10,
+          "READY_TIME": 2505,
+          "DUE_TIME": 2870,
+          "SERVICE_TIME": 90
+        }
+      ],
+      "Distance": 85.84287972802403
+    }
+  ],
+  "Nodes_no_go": []
+}
